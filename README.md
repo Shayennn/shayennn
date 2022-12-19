@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shayennn&margin-w=5&margin-h=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 ### Hi there 👋
 
