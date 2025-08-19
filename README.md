@@ -2,10 +2,6 @@
 
 I'm an experienced IT Generalist passionate about automation 🤖, software engineering 💻, computer architecture 🖥️, cloud computing ☁️, and aviation ✈️. I believe in creating efficient, scalable, and secure systems that solve real-world problems.
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shayennn&margin-w=5&margin-h=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🔧 Skills & Technologies
 
 ### Programming Languages
@@ -55,8 +51,8 @@ Here are some of the projects I've worked on:
 
 - **🌐 Website:** [phitchaw.at](https://phitchaw.at/contact)
 - **💼 LinkedIn:** [linkedin.com/in/phitchawat](https://linkedin.com/in/phitchawat)
-- **✉️ Email:** me [at] phitchaw.at
-- **📄 Resume:** [Download My Resume](https://github.com/Shayennn/resume/releases/latest/download/Phitchawat_Lukkanathiti_Resume.pdf)
+- **✉️ Email:** gagagagaguthibguthibguthib [at] phitchaw.at
+- **📄 Resume:** [Download My Resume](https://phitchaw.at/resume)
 
 ## 🌱 What I’m currently learning
 
